@@ -36,6 +36,7 @@ fun main() {
 
     val (name, age) = jane
     println("name:$name,age:$age")
+
 }
 
 /*
